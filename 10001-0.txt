@@ -1,4 +1,3 @@
-
                        SENECA
 
                   APOCOLOCYNTOSIS
@@ -17,13 +16,13 @@ INTRODUCTION
 
 This piece is ascribed to Seneca by ancient tradition; it is impossible
 to prove that it is his, and impossible to prove that it is not. The
-matter will probably continue to be decided by every one according to his
-view of Seneca's character and abilities: in the matters of style and of
-sentiment much may be said on both sides. Dion Cassius (lx, 35) says that
-Seneca composed an [Greek: apokolokuntosis] or Pumpkinification of
+matter will probably continue to be decided by every one according to
+his view of Seneca's character and abilities: in the matters of style
+and of sentiment much may be said on both sides. Dion Cassius (lx, 35)
+says that Seneca composed an ἀποκολοκύντωσις or Pumpkinification of
 Claudius after his death, the title being a parody of the usual
-[Greek: apotheosis]; but this title is not given in the MSS. of the Ludus
-de Morte Claudii, nor is there anything in the piece which suits the title
+ἀποθέωσις; but this title is not given in the MSS. of the Ludus de
+Morte Claudii, nor is there anything in the piece which suits the title
 very well.
 
 As a literary form, the piece belongs to the class called
@@ -47,11 +46,9 @@ _Editio Princeps:_ Lucii Annaei Senecae in morte
   Claudii Caesaris Ludus nuper repertus: Rome,
   1513.
 
-_Latest critical text:_ Franz Buecheler, Weidmann, 1904
-  (a reprint with a few changes of the text from
-  a larger work, Divi Claudii [Greek: Apokolokuntosis] in
-  the Symbola Philologorum Bonnensium, fasc. i,
-  1864).
+_Latest critical text:_ Franz Buecheler, Weidmann, 1904 (a reprint with
+a few changes of the text from a larger work, Divi Claudii
+Ἀποκολοκύντωσις in the Symbola Philologorum Bonnensium, fasc. i, 1864).
 
 _Translations and helps:_ The Satire of Seneca on the
   Apotheosis of Claudius, by A.P. Ball (with introduction,
@@ -298,8 +295,7 @@ closet he knows not;[Footnote: Perhaps alluding to a mock marriage of
 Silius and Messalina.] and now he searches the regions of the sky, wants to
 be a god. Is it not enough that he has a temple in Britain, that savages
 worship him and pray to him as a god, so that they may find a fool
-[Footnote: Again [GREEK: morou] for [GREEK: theou] as in ch. 6.] to have
-mercy upon them?"
+[Footnote: Again μωροῦ for θεοῦ  as in ch. 6.] to have mercy upon them?"
 
 At last it came into Jove's head, that while strangers                    9
 were in the House it was not lawful to speak or debate. "My lords and
@@ -528,10 +524,3 @@ slave: brings witnesses, who said they had seen him being flogged, caned,
 fisticuffed by him. He is handed over to Caligula, and Caligula makes him
 a present to Aeacus. Aeacus delivers him to his freedman Menander, to be
 his law-clerk.
-
-
-
-
-
-End of the Project Gutenberg EBook of Apocolocyntosis, by Lucius Seneca
-
